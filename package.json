@@ -1,0 +1,25 @@
+{
+  "name": "mySlider",
+  "version": "1.0.0",
+  "description": "An slider created with OOP",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server ./content/js/main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cavilarts/mySlider.git"
+  },
+  "author": "cavilarts",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cavilarts/mySlider/issues"
+  },
+  "homepage": "https://github.com/cavilarts/mySlider",
+  "devDependencies": {
+    "envify": "^1.2.1",
+    "react": "^0.9.0",
+    "webpack": "^1.12.9",
+    "webpack-dev-server": "^1.14.0"
+  }
+}
